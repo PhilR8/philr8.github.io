@@ -1,0 +1,268 @@
+{ "countyExtents": [
+		{
+			"name": "Kent County",
+			"fid": 0,
+			"extent": {
+				"xmin": 462321.4619,
+				"ymin": 149227.4393,
+				"xmax": 507382.1784,
+				"ymax": 191172.5599,
+				"spatialReference":{"wkid":26985}
+			}
+		},
+		{
+			"name": "Charles County",
+			"fid": 1,
+			"extent": {
+				"xmin": 376077.8945,
+				"ymin": 65274.0060,
+				"xmax": 428525.2972,
+				"ymax": 113615.4802,
+				"spatialReference":{"wkid":26985}
+			}
+		},
+		{
+			"name": "Caroline County",
+			"fid": 2,
+			"extent": {
+				"xmin": 485642.32349,
+				"ymin": 108324.5392,
+				"xmax": 512533.4987,
+				"ymax": 164660.9054,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "Allegany County",
+			"fid": 3,
+			"extent": {
+				"xmin": 222091.2646,
+				"ymin": 198482.1653,
+				"xmax": 287347.5667,
+				"ymax": 230001.0731,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{	
+			"name": "Baltimore City",
+			"fid": 4,
+			"extent": {
+				"xmin": 424860.5187,
+				"ymin": 169994.4589,
+				"xmax": 440619.4711,
+				"ymax": 189429.9640,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+		"name": "Frederick County",
+			"fid": 5,
+			"extent": {
+				"xmin": 341610.3079,
+				"ymin": 172558.6070,
+				"xmax": 390819.1850,
+				"ymax": 228048.2248,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "Worcester County",
+			"fid": 6,
+			"extent": {
+				"xmin": 517470.4430,
+				"ymin": 37269.6158,
+				"xmax": 570279.1935,
+				"ymax": 88911.3183,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "Talbot County",
+			"fid": 7,
+			"extent": {
+				"xmin": 454406.7189,
+				"ymin": 101667.7021,
+				"xmax": 495809.6383,
+				"ymax": 142304.7736,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "Garrett County",
+			"fid": 8,
+			"extent": {
+				"xmin": 185230.4993,
+				"ymin": 173336.3172,
+				"xmax": 234427.1244,
+				"ymax": 230941.8958,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "Cecil County",
+			"fid": 9,
+			"extent": {
+				"xmin": 466408.7714,
+				"ymin": 188877.0443,
+				"xmax": 506270.8637,
+				"ymax": 228875.0194,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "Somerset County",
+			"fid": 10,
+			"extent": {
+				"xmin": 482397.1176,
+				"ymin": 27840.9400,
+				"xmax": 528079.9708,
+				"ymax": 71041.9059,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "Washington County",
+			"fid": 11,
+			"extent": {
+				"xmin": 282990.8021,
+				"ymin": 183582.1460,
+				"xmax": 359778.8071,
+				"ymax": 229074.5857,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "Prince George's County",
+			"fid": 12,
+			"extent": {
+				"xmin": 393298.7273,
+				"ymin": 96923.2252,
+				"xmax": 428665.7048,
+				"ymax": 162577.5190,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "Baltimore County",
+			"fid": 13,
+			"extent": {
+				"xmin": 409046.8739,
+				"ymin": 169837.2545,
+				"xmax": 458526.4944,
+				"ymax": 228169.6484,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "Wicomico County",
+			"fid": 14,
+			"extent": {
+				"xmin": 494486.5838,
+				"ymin": 62826.3337,
+				"xmax": 547970.3724,
+				"ymax": 99965.2622,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "Carroll County",
+			"fid": 15,
+			"extent": {
+				"xmin": 373253.8712,
+				"ymin": 186694.6581,
+				"xmax": 418255.5760,
+				"ymax": 228051.8971,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "Montgomery County",
+			"fid": 16,
+			"extent": {
+				"xmin": 354383.8066,
+				"ymin": 140724.4725,
+				"xmax": 409629.6036,
+				"ymax": 187263.6814,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "Queen Anne's County",
+			"fid": 17,
+			"extent": {
+				"xmin": 454139.6702,
+				"ymin": 130012.1039,
+				"xmax": 508250.1059,
+				"ymax": 177690.7380,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "Dorchester County",
+			"fid": 18,
+			"extent": {
+				"xmin": 457452.9614,
+				"ymin": 50161.7886,
+				"xmax": 513156.5368,
+				"ymax": 115809.2664,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "Harford County",
+			"fid": 19,
+			"extent": {
+				"xmin": 436915.3026,
+				"ymin": 178717.2021,
+				"xmax": 480884.6014,
+				"ymax": 228378.7021,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "St. Mary's County",
+			"fid": 20,
+			"extent": {
+				"xmin": 411302.0495,
+				"ymin": 41265.6011,
+				"xmax": 459618.7868,
+				"ymax": 94059.3293,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "Anne Arundel County",
+			"fid": 21,
+			"extent": {
+				"xmin": 413808.1749,
+				"ymin": 116224.4996,
+				"xmax": 452463.2370,
+				"ymax": 174395.2549,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "Calvert County",
+			"fid": 22,
+			"extent": {
+				"xmin": 425984.7795,
+				"ymin": 72266.4677,
+				"xmax": 454095.0931,
+				"ymax": 122455.3500,
+				"spatialReference":{"wkid":26985}				
+			}
+		},
+		{
+			"name": "Howard County",
+			"fid": 23,
+			"extent": {
+				"xmin": 383869.3608,
+				"ymin": 159468.2226,
+				"xmax": 426216.0719,
+				"ymax": 189012.7272,
+				"spatialReference":{"wkid":26985}				
+			}
+		}
+	]
+}	
+	
